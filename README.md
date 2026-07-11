@@ -11,16 +11,16 @@ The theoretical framework, multi-engine compiler stack specification, and full v
 * **Official Abstract & Paper (PDF): https://github.com/codiusx/Phyloz-Decoder
 * **Permanent Immutable Archive: https://archive.org/details/phyloz-decoder-the-voynich-codex-uncompiled/PHYLOZ1.pdf
 
-LAYER 10 ──► ASTRO-BOTANICAL COUPLING** ──► Syncs recipes to planetary clocks
-LAYER  9 ──► NUMERICAL QUANTIFIERS** ──► Isolated pars/partes dosage
-LAYER  8 ──► TEMPORAL STATE ARCHETYPES** ──► Paragraph state machines
-LAYER  7 ──► PROCEDURAL VERBS** ──► 55 action keys (MIX/BOIL/TRANSFER)
-LAYER  6 ──► COMPOUND SUBSTANCES** ──► Dual-anchor synergy matrices
-LAYER  5 ──► TEMPORAL SEQUENCES** ──► Modifiers line-initial, anchors line-final
-LAYER  4 ──► CROSS-REFERENCE GRAPH** ──► Routing network, 118 edges to f1r
-LAYER  3 ──► RECIPE ANCHORS** ──► Primary target substances
-LAYER  2 ──► ITERATOR WRAPPERS** ──► Synthetic syntax brackets
-LAYER  1 ──► GLOBAL ITERATORS** ──► Universal macro broadcasters
+Layer 10:** Astro-Botanical Coupling (Syncs recipes to planetary clocks)
+Layer 9:** Numerical Quantifiers (Isolated pars/partes dosage)
+Layer 8:** Temporal State Archetypes (Paragraph state machines)
+Layer 7:** Procedural Verbs (55 action keys - MIX/BOIL/TRANSFER)
+Layer 6:** Compound Substances (Dual-anchor synergy matrices)
+Layer 5:** Temporal Sequences (Modifiers line-initial, anchors line-final)
+Layer 4:** Cross-Reference Graph (Routing network, 118 edges to f1r)
+Layer 3:** Recipe Anchors (Primary target substances)
+Layer 2:** Iterator Wrappers (Synthetic syntax brackets)
+Layer 1:** Global Iterators (Universal macro broadcasters)
 
 *Note: The executable Phyloz compiler engine and its internal calibration coefficients remain proprietary offline assets. The full analytical methodology and Folio 1r translation metrics are public within the paper for independent replication.*
 
