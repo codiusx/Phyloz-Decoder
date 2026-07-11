@@ -9,7 +9,7 @@ The theoretical framework, multi-engine compiler stack specification, and full v
 
 ## Permanent Public Record
 * **Official Abstract & Paper (PDF): https://github.com/codiusx/Phyloz-Decoder
-* **Permanent Immutable Archive: https://archive.org/details/phyloz-decoder-the-voynich-codex-uncompiled
+* **Permanent Immutable Archive: https://archive.org/details/phyloz-decoder-the-voynich-codex-uncompiled/PHYLOZ1.pdf
 
 ## Framework Architecture
 The Phyloz engine processes the manuscript through a bottom-up, 10-layer compiler stack:
