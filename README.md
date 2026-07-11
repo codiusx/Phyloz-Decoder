@@ -11,18 +11,16 @@ The theoretical framework, multi-engine compiler stack specification, and full v
 * **Official Abstract & Paper (PDF): https://github.com/codiusx/Phyloz-Decoder
 * **Permanent Immutable Archive: https://archive.org/details/phyloz-decoder-the-voynich-codex-uncompiled/PHYLOZ1.pdf
 
-## Framework Architecture
-The Phyloz engine processes the manuscript through a bottom-up, 10-layer compiler stack:
-* **Layer 10:** Astronomical-Botanical Coupling (System Clock / Humoral Constraints)
-* **Layer 9:** Numerical Quantifiers (*pars/partes* metrology flags)
-* **Layer 8:** Temporal State Archetypes (Paragraph-level execution pipelines)
-* **Layer 7:** Procedural Verbs (Operational command mining: *coquere, siccare, caedere*)
-* **Layer 6:** Compound Substances (Multi-substance interaction matrices)
-* **Layer 5:** Temporal Sequences (Spatial layout anchoring rules)
-* **Layer 4:** Cross-Reference Graph (Internal routing network / Folio 1r hub)
-* **Layer 3:** Recipe Anchors (Primary target substance keys)
-* **Layer 2:** Iterator Wrappers (Synthetic syntax stream routing brackets)
-* **Layer 1:** Global Iterators (Hebrew *kol/chol* macro-broadcasters)
+LAYER 10 ──► ASTRO-BOTANICAL COUPLING** ──► Syncs recipes to planetary clocks
+LAYER  9 ──► NUMERICAL QUANTIFIERS** ──► Isolated pars/partes dosage
+LAYER  8 ──► TEMPORAL STATE ARCHETYPES** ──► Paragraph state machines
+LAYER  7 ──► PROCEDURAL VERBS** ──► 55 action keys (MIX/BOIL/TRANSFER)
+LAYER  6 ──► COMPOUND SUBSTANCES** ──► Dual-anchor synergy matrices
+LAYER  5 ──► TEMPORAL SEQUENCES** ──► Modifiers line-initial, anchors line-final
+LAYER  4 ──► CROSS-REFERENCE GRAPH** ──► Routing network, 118 edges to f1r
+LAYER  3 ──► RECIPE ANCHORS** ──► Primary target substances
+LAYER  2 ──► ITERATOR WRAPPERS** ──► Synthetic syntax brackets
+LAYER  1 ──► GLOBAL ITERATORS** ──► Universal macro broadcasters
 
 *Note: The executable Phyloz compiler engine and its internal calibration coefficients remain proprietary offline assets. The full analytical methodology and Folio 1r translation metrics are public within the paper for independent replication.*
 
